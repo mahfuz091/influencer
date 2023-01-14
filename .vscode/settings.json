@@ -1,0 +1,7 @@
+{
+  "emmet.syntaxProfiles": {
+    "html": {
+      "filters": "html, c"
+    }
+  }
+}
